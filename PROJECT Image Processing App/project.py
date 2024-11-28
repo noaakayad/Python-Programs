@@ -1,6 +1,6 @@
 """
 DSC 20 Project
-Name(s): Noa Wissam Omar Akayad, Noureddine Boudali
+Name(s): Noa Wissam Omar Akayad
 PID(s):  U10274660
 Sources: N/A
 """
