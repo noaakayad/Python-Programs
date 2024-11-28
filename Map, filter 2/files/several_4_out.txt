@@ -1,0 +1,4 @@
+name,city,DOB
+Sue,San Diego,Mar 19 2015
+Ben,London,Dec 08 1970
+Kate,Paris,Jul 13 1945

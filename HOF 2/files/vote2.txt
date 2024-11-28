@@ -1,0 +1,3 @@
+Maxx,1
+Tre,1
+Jakobi,0

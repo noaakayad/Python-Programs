@@ -1,0 +1,4 @@
+Name, City, DOB
+Noa, Paris,  01/18/2003
+   Nordine, Tunis, 04/12/1978
+   Sami, Agadir,  09/11/1975

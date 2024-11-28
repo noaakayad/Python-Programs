@@ -1,0 +1,4 @@
+Amazon,Jeff,jeff@amazon.com,s
+Apple,Steve,steve@apple.com,w
+NVIDIA,Jensen,jensen@nvidia.com,w
+Facebook,Mark,mark@fb.com,s

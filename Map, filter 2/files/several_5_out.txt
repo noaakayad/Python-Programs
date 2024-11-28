@@ -1,0 +1,5 @@
+name,city,DOB
+Kate,Paris,Jul 13 1945
+Noa,Paris,Jan 18 2003
+Nordine,Tunis,Apr 12 1978
+Sami,Agadir,Sep 11 1975

@@ -1,0 +1,3 @@
+Noa,0
+Sami,0
+Adame,1

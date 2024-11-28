@@ -1,0 +1,2 @@
+Name, City, DOB
+Kate, Paris, 07/13/1945

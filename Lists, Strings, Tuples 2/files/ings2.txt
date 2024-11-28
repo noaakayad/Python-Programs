@@ -1,0 +1,4 @@
+pompompurin,home depot,shovel,3
+cinnamoroll,amazon,headphones,1
+tuxedo sam,petsmart,bird,2
+pochacco,walmart,brownies,100

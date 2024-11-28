@@ -1,0 +1,4 @@
+Name, City, DOB
+Rob, Chicago, 10/10/2010
+Ella,   New York, 04/09/1970
+Mary, New York.  , 01/01/2004

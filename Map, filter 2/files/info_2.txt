@@ -1,0 +1,6 @@
+Name, City, DOB
+Rob, Chicago,  10/10/2010
+   Ezra, London, 04/12/1978
+   Mary, Paris,  09/11/1975
+Ron, paris, 11/11/1989
+Harry, paris, 12/15/1989
